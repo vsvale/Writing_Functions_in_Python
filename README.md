@@ -10,6 +10,6 @@ You've done your analysis, built your report, and trained a model. What's next? 
 [Datacamp](https://app.datacamp.com/)
 
 ## What I have done?
-- docstrings
-- context managers
+- Docstrings
+- Context managers
 - Decorators
